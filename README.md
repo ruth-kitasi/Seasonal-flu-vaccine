@@ -1,6 +1,7 @@
 # Seasonal-flu-vaccine
 
 
+
 ![img](https://github.com/user-attachments/assets/5d78f134-129d-46d5-a5d4-df18416f6b26)
 
 ### Introduction
@@ -35,11 +36,10 @@ Create a model that can predict seasonal flu vaccine uptake based on a person's 
 
 ### Recommendations
 - Careful examination of the significance of identified predictors	will help understand underlying factors and ensure fairness in decision-making.
-- 
-Include a wider range of demographic groups, thereby achieving a more diverse and balanced dataset.
+ 
+- Include a wider range of demographic groups, thereby achieving a more diverse and balanced dataset.
 
 - Regularly review and update the model to ensure it adapts to new data and trends.
-
 
 
 
